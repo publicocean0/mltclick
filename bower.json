@@ -1,0 +1,13 @@
+{
+  "name": "jquery.mltclick",
+  "version": "0.0.1",
+  "license" : "WTFPL",
+  "main": [
+    "mltclick.js"
+  ],
+  
+"dependencies":{
+  "jquery": "^2.2.0"		
+}
+ 
+}
